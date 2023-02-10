@@ -1,0 +1,753 @@
+--------[ AIDA64 Business ]---------------------------------------------------------------------------------------------
+
+    Версия                                            AIDA64 v6.70.6000/ru
+    Тестовый модуль                                   4.5.868.8-x64
+    Домашняя страница                                 http://www.aida64.com/
+    Тип отчёта                                        Командная строка: /CUSTOM C:\Users\Vestmud\source\repos\MonitoringIS\MonitoringIS\report_preferences.rpf
+    Компьютер                                         VESTMUD-PC
+    Генератор                                         Vestmud
+    Операционная система                              Microsoft Windows 10 Pro 10.0.19042.1586 (Win10 20H2 October 2020 Update)
+    Дата                                              2022-05-18
+    Время                                             02:42
+
+
+--------[ Суммарная информация ]----------------------------------------------------------------------------------------
+
+    Компьютер:
+      Тип компьютера                                    Компьютер с ACPI на базе x64
+      Операционная система                              Microsoft Windows 10 Pro
+      Пакет обновления ОС                               -
+      Internet Explorer                                 11.789.19041.0
+      Edge                                              101.0.1210.47
+      DirectX                                           DirectX 12.0
+      Имя компьютера                                    VESTMUD-PC
+      Имя пользователя                                  Vestmud
+      Вход в домен                                      VESTMUD-PC
+      Дата / Время                                      2022-05-18 / 02:42
+
+    Системная плата:
+      Тип ЦП                                            QuadCore Intel Core i7-7700K, 4500 MHz (45 x 100)
+      Системная плата                                   MSI Z270 SLI Plus (MS-7A59)  (3 PCI-E x1, 3 PCI-E x16, 2 M.2, 4 DDR4 DIMM, Audio, Video, Gigabit LAN)
+      Чипсет системной платы                            Intel Kaby Point Z270, Intel Kaby Lake-S
+      Системная память                                  32725 МБ  (DDR4 SDRAM)
+      Тип BIOS                                          AMI (12/01/2016)
+      Коммуникационный порт                             Последовательный порт (COM1)
+      Коммуникационный порт                             Порт принтера (LPT1)
+
+    Дисплей:
+      Видеоадаптер                                      NVIDIA GeForce GTX 1080  (8 ГБ)
+      Видеоадаптер                                      NVIDIA GeForce GTX 1080  (8 ГБ)
+      Видеоадаптер                                      NVIDIA GeForce GTX 1080  (8 ГБ)
+      Видеоадаптер                                      NVIDIA GeForce GTX 1080  (8 ГБ)
+      3D-акселератор                                    nVIDIA GeForce GTX 1080
+      Монитор                                           AOC 2060W3  [20" LCD]  (GCEHBHA238348)
+      Монитор                                           Asus MX25AQ  [25" AH-IPS LCD]  (H5LMRS033793)
+
+    Мультимедиа:
+      Звуковой адаптер                                  nVIDIA GP104 HDMI/DP @ nVIDIA GP104 - High Definition Audio Controller
+      Звуковой адаптер                                  Realtek ALC1220 @ Intel Kaby Point PCH - High Definition Audio Controller (Audio, Voice, Speech)
+
+    Хранение данных:
+      IDE-контроллер                                    Стандартный контроллер SATA AHCI
+      Контроллер хранения данных                        Контроллер дискового пространства (Майкрософт)
+      Контроллер хранения данных                        Стандартный контроллер NVM Express
+      Дисковый накопитель                               Corsair Force LE SSD  (SATA-III)
+      Дисковый накопитель                               ST1000DX001-1CM162  (1 ТБ, 7200 RPM, SATA-III)
+      Дисковый накопитель                               WDS500G3X0C-00SJG0  (500 ГБ, PCI-E 3.0 x4)
+      SMART-статус жёстких дисков                       OK
+
+    Разделы:
+      C: (NTFS)                                         476822 МБ (54691 МБ свободно)
+      D: (NTFS)                                         457860 МБ (209634 МБ свободно)
+      E: (NTFS)                                         953867 МБ (724686 МБ свободно)
+      Общий размер                                      1844.3 ГБ (965.8 ГБ свободно)
+
+    Ввод:
+      Клавиатура                                        Клавиатура HID
+      Клавиатура                                        Клавиатура HID
+      Клавиатура                                        Клавиатура HID
+      Клавиатура                                        Клавиатура HID
+      Клавиатура                                        Стандартная клавиатура PS/2
+      Мышь                                              HID-совместимая мышь
+      Мышь                                              HID-совместимая мышь
+      Мышь                                              HID-совместимая мышь
+      Мышь                                              Мышь Microsoft PS/2
+
+    Сеть:
+      Первичный адрес IP                                192.168.0.196
+      Первичный адрес MAC                               7A-79-19-63-2E-ED  (пользовательский)
+      Сетевой адаптер                                   Intel(R) Ethernet Connection (2) I219-V  (192.168.0.196)
+      Сетевой адаптер                                   LogMeIn Hamachi Virtual Ethernet Adapter  (25.99.46.237)
+      Сетевой адаптер                                   Windscribe VPN
+
+    Периферийные устройства:
+      Принтер                                           Fax
+      Принтер                                           HP LaserJet MFP M129-M134
+      Принтер                                           Microsoft Print to PDF
+      Принтер                                           Microsoft XPS Document Writer
+      Принтер                                           OneNote (Desktop)
+      Принтер                                           OneNote for Windows 10
+      Контроллер USB3                                   ASMedia ASM2142 USB 3.1 xHCI Controller
+      Контроллер USB3                                   Intel Kaby Point PCH - USB 3.1 xHCI Host Controller
+      USB-устройство                                    CORSAIR VOID ELITE USB Gaming Headset
+      USB-устройство                                    USB-видеоустройство
+      USB-устройство                                    USB-устройство ввода
+      USB-устройство                                    USB-устройство ввода
+      USB-устройство                                    USB-устройство ввода
+      USB-устройство                                    USB-устройство ввода
+      USB-устройство                                    USB-устройство ввода
+      USB-устройство                                    Аудио устройства USB
+      USB-устройство                                    Составное USB устройство
+      USB-устройство                                    Составное USB устройство
+      USB-устройство                                    Составное USB устройство
+      USB-устройство                                    Составное USB устройство
+
+    DMI:
+      DMI поставщик BIOS                                American Megatrends Inc.
+      DMI версия BIOS                                   1.30
+      DMI производитель системы                         MSI
+      DMI система                                       MS-7A59
+      DMI системная версия                              1.0
+      DMI системный серийный номер                      Default string
+      DMI системный UUID                                00000000-00000000-00004CCC-6AB930CE
+      DMI производитель системной платы                 MSI
+      DMI системная плата                               Z270 SLI PLUS (MS-7A59)
+      DMI версия системной платы                        1.0
+      DMI серийный номер системной платы                GC16360485
+      DMI производитель шасси                           MSI
+      DMI версия шасси                                  1.0
+      DMI серийный номер шасси                          Default string
+      DMI Asset-тег шасси                               Default string
+      DMI тип шасси                                     Desktop Case
+
+
+--------[ Датчики ]-----------------------------------------------------------------------------------------------------
+
+    Свойства датчика:
+      Тип датчика                                       Nuvoton NCT6795D-M  (ISA A20h)
+      Тип датчика ГП                                    Diode  (NV-Diode)
+      Системная плата                                   MSI MS-7A57 / 7A58 / 7A59 / 7A62 / 7A63 / 7A64 / 7A65 / 7A66 / 7A67 / 7A68 / 7A69 / 7A70 / 7A71 / 7A72 / 7A74 / 7A75 / 7A76 / 7A77 / 7A78 / 7A79 / 7A98 / B910
+      Обнаружено вскрытие корпуса                       Да
+
+    Температуры:
+      Системная плата                                   34 °C
+      CPU Package                                       38 °C
+      CPU IA Cores                                      36 °C
+      CPU GT Cores                                      36 °C
+      ЦП 1 / Ядро 1                                     36 °C
+      ЦП 1 / Ядро 2                                     36 °C
+      ЦП 1 / Ядро 3                                     35 °C
+      ЦП 1 / Ядро 4                                     35 °C
+      Диод PCH                                          40 °C
+      Диод ГП                                           42 °C
+      GPU Hotspot                                       54 °C
+      WDS500G3X0C-00SJG0                                45 °C
+      ST1000DX001-1CM162                                29 °C
+      Corsair Force LE SSD                              30 °C
+
+    Вентиляторы:
+      ЦП                                                938 RPM
+      Шасси 1                                           955 RPM
+      Графический процессор                             276 RPM  (6%)
+
+    Напряжения:
+      Ядро ЦП                                           0.864 V
+      CPU VID                                           1.233 V
+      +3.3 V                                            3.408 V
+      +5 V                                              5.160 V
+      +12 V                                             12.384 V
+      DIMM                                              1.200 V
+      Ядро PCH                                          0.992 V
+      VCCIO                                             0.960 V
+      VCCSA                                             1.064 V
+      Ядро ГП                                           0.625 V
+
+    Значения мощности:
+      CPU Package                                       15.30 W
+      CPU IA Cores                                      9.33 W
+      CPU Uncore                                        4.45 W
+      DIMM                                              1.52 W
+      Графический процессор                             13.21 W
+      GPU TDP%                                          7%
+      Debug Info F                                      0 938 955 0 0 0
+      Debug Info T                                      34 36 00
+      Debug Info V                                      6C 81 D5 D5 81 13 78 (23) / 6C 81 D5 D5 81 13 78 D5 / 00 7E 85 00 7C 4B C2 00
+      Debug Info I                                      00 D352
+
+
+--------[ ЦП ]----------------------------------------------------------------------------------------------------------
+
+    Свойства ЦП:
+      Тип ЦП                                            QuadCore Intel Core i7-7700K, 4500 MHz (45 x 100)
+      Псевдоним ЦП                                      Kaby Lake-S
+      Степпинг ЦП                                       B0
+      Наборы инструкций                                 x86, x86-64, MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, FMA, AES
+      Исходная частота                                  4200 МГц
+      Мин./макс. множитель ЦП                           8x / 83x
+      Engineering Sample                                Нет
+      Кэш L1 кода                                       32 КБ per core
+      Кэш L1 данных                                     32 КБ per core
+      Кэш L2                                            256 КБ per core  (On-Die, ECC, Full-Speed)
+      Кэш L3                                            8 МБ  (On-Die, ECC, Full-Speed)
+
+    Физическая информация о ЦП:
+      Тип корпуса                                       1151 Contact FC-LGA
+      Размеры корпуса                                   37.5 mm x 37.5 mm
+      Технологический процесс                           13MiM, 14 nm, CMOS, Cu, High-K + Metal Gate
+      Размер кристалла                                  126 mm2
+      Типичная мощность                                 91 W
+
+    Производитель ЦП:
+      Фирма                                             Intel Corporation
+      Информация о продукте                             https://ark.intel.com/content/www/us/en/ark/search.html?q=Intel%20Core%20i7-7700K
+      Обновление драйверов                              http://www.aida64.com/goto/?p=drvupdates
+
+    Multi CPU:
+      ID системной платы                                A M I ALASKA
+      CPU #1                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #2                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #3                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #4                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #5                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #6                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #7                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+      CPU #8                                            Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 МГц
+
+    Загрузка ЦП:
+      ЦП 1 / Ядро 1 / SMT 1                             0%
+      ЦП 1 / Ядро 1 / SMT 2                             20%
+      ЦП 1 / Ядро 2 / SMT 1                             0%
+      ЦП 1 / Ядро 2 / SMT 2                             0%
+      ЦП 1 / Ядро 3 / SMT 1                             0%
+      ЦП 1 / Ядро 3 / SMT 2                             0%
+      ЦП 1 / Ядро 4 / SMT 1                             0%
+      ЦП 1 / Ядро 4 / SMT 2                             0%
+
+
+--------[ Системная плата ]---------------------------------------------------------------------------------------------
+
+    Свойства системной платы:
+      ID системной платы                                63-0100-000001-00101111-040416-Chipset$0AAAA000_BIOS DATE: 12/01/16 14:41:15 VER: V1.30
+      Системная плата                                   MSI Z270 SLI Plus (MS-7A59)
+
+    Свойства шины FSB:
+      Тип шины                                          BCLK
+      Реальная частота                                  100 МГц
+      Эффективная частота                               100 МГц
+
+    Свойства шины памяти:
+      Тип шины                                          Dual DDR4 SDRAM
+      Ширина шины                                       128 бит
+      Соотношение DRAM:FSB                              32:3
+      Реальная частота                                  1067 МГц (DDR)
+      Эффективная частота                               2133 МГц
+      Пропускная способность                            34133 МБ/с
+
+    Свойства шины чипсета:
+      Тип шины                                          Intel Direct Media Interface v3.0
+
+    Физическая информация о системной плате:
+      Разъёмы для ЦП                                    1 LGA1151
+      Разъёмы расширения                                3 PCI-E x1, 3 PCI-E x16, 2 M.2
+      Разъёмы ОЗУ                                       4 DDR4 DIMM
+      Встроенные устройства                             Audio, Video, Gigabit LAN
+      Форм-фактор                                       ATX
+      Размеры системной платы                           240 mm x 300 mm
+      Чипсет системной платы                            Z270
+
+    Производитель системной платы:
+      Фирма                                             Micro-Star Int'l Co.,Ltd.
+      Информация о продукте                             https://www.msi.com/Motherboards
+      Загрузка обновлений BIOS                          https://www.msi.com/support#support_download
+      Обновление драйверов                              http://www.aida64.com/goto/?p=drvupdates
+      Модернизации BIOS                                 http://www.aida64.com/goto/?p=biosupdates
+
+
+--------[ Память ]------------------------------------------------------------------------------------------------------
+
+    Физическая память:
+      Всего                                             32726 МБ
+      Занято                                            13300 МБ
+      Свободно                                          19426 МБ
+      Загрузка                                          41 %
+
+    Виртуальная память:
+      Всего                                             48726 МБ
+      Занято                                            22579 МБ
+      Свободно                                          26147 МБ
+      Загрузка                                          46 %
+
+    Файл подкачки:
+      Файл подкачки                                     C:\pagefile.sys
+      Исходный/максимальный размер                      16000 МБ / 16000 МБ
+      Текущий размер                                    16000 МБ
+      Текущая/пиковая загрузка                          268 МБ / 333 МБ
+      Загрузка                                          2 %
+
+    Physical Address Extension (PAE):
+      Поддерживается ОС                                 Да
+      Поддерживается ЦП                                 Да
+      Активный                                          Да
+
+
+--------[ SPD ]---------------------------------------------------------------------------------------------------------
+
+  [ DIMM1: Corsair Vengeance LPX CMK8GX4M1A2400C14 ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Corsair Vengeance LPX CMK8GX4M1A2400C14
+      Серийный номер                                    Нет
+      Размер модуля                                     8 ГБ (2 ranks, 16 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR4 SDRAM
+      Скорость памяти (XMP)                             DDR4-2666 (1333 МГц)
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля (XMP)                           1.35 V
+      Напряжение модуля                                 1.2 V
+      Метод обнаружения ошибок                          Нет
+      Производитель DRAM                                Micron
+      DRAM Stepping                                     00h
+      SDRAM Die Count                                   1
+
+    Тайминги памяти:
+      @ 1333 МГц (XMP)                                  16-16-16-34  (CL-RCD-RP-RAS)
+      @ 1333 МГц (XMP)                                  15-16-16-34  (CL-RCD-RP-RAS)
+      @ 1333 МГц (XMP)                                  14-16-16-34  (CL-RCD-RP-RAS)
+      @ 1239 МГц (XMP)                                  13-15-15-32  (CL-RCD-RP-RAS)
+      @ 1143 МГц (XMP)                                  12-14-14-30  (CL-RCD-RP-RAS)
+      @ 1048 МГц (XMP)                                  11-13-13-27  (CL-RCD-RP-RAS)
+      @ 857 МГц (XMP)                                   9-11-11-22  (CL-RCD-RP-RAS)
+      @ 1066 МГц                                        16-15-15-36  (CL-RCD-RP-RAS) / 50-278-171-118-6-4-6-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1066 МГц                                        15-15-15-36  (CL-RCD-RP-RAS) / 50-278-171-118-6-4-6-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1037 МГц                                        14-14-14-35  (CL-RCD-RP-RAS) / 49-270-166-115-6-4-6-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 962 МГц                                         13-13-13-32  (CL-RCD-RP-RAS) / 45-251-155-106-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 888 МГц                                         12-12-12-30  (CL-RCD-RP-RAS) / 42-232-143-98-5-4-5-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 814 МГц                                         11-11-11-27  (CL-RCD-RP-RAS) / 38-212-131-90-5-4-5-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 740 МГц                                         10-10-10-25  (CL-RCD-RP-RAS) / 35-193-119-82-4-3-4-18  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 666 МГц                                         9-9-9-22  (CL-RCD-RP-RAS) / 31-174-107-74-4-3-4-16  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR4-2400 (1200 МГц)
+      Напряжение питания                                1.20 V
+      Рекомендуется DIMM на канал                       1
+      @ 1200 МГц                                        20-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        19-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        18-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        17-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        16-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        15-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        14-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1115 МГц                                        13-15-15-29  (CL-RCD-RP-RAS) / 44-291-179-123-7-5-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1030 МГц                                        12-14-14-27  (CL-RCD-RP-RAS) / 41-268-165-114-6-5-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 944 МГц                                         11-13-13-25  (CL-RCD-RP-RAS) / 37-246-152-104-6-4-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 858 МГц                                         10-12-12-23  (CL-RCD-RP-RAS) / 34-224-138-95-5-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 772 МГц                                         9-11-11-20  (CL-RCD-RP-RAS) / 31-201-124-85-5-4-17  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Extreme
+      Скорость памяти                                   DDR4-2666 (1333 МГц)
+      Напряжение питания                                1.35 V
+      Рекомендуется DIMM на канал                       1
+      @ 1333 МГц                                        16-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1333 МГц                                        15-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1333 МГц                                        14-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1239 МГц                                        13-15-15-32  (CL-RCD-RP-RAS) / 47-323-199-137-8-5-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1143 МГц                                        12-14-14-30  (CL-RCD-RP-RAS) / 43-298-184-126-7-5-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1048 МГц                                        11-13-13-27  (CL-RCD-RP-RAS) / 40-273-168-116-7-4-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 857 МГц                                         9-11-11-22  (CL-RCD-RP-RAS) / 33-224-138-95-6-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Функции модуля памяти:
+      Monolithic DRAM Device                            Да
+      Thermal Sensor                                    Нет
+
+    Производитель модуля памяти:
+      Фирма                                             Corsair Inc.
+      Информация о продукте                             https://www.corsair.com/ww/en/Categories/Products/Memory/c/Cor_Products_Memory
+
+  [ DIMM2: Corsair Vengeance LPX CMK16GX4M2A2133C13 ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Corsair Vengeance LPX CMK16GX4M2A2133C13
+      Серийный номер                                    Нет
+      Размер модуля                                     8 ГБ (1 rank, 16 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR4 SDRAM
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.2 V
+      Метод обнаружения ошибок                          Нет
+      Производитель DRAM                                SK hynix
+      DRAM Stepping                                     00h
+      SDRAM Die Count                                   1
+
+    Тайминги памяти:
+      @ 1066 МГц                                        16-15-15-36  (CL-RCD-RP-RAS) / 50-374-278-171-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1066 МГц                                        15-15-15-36  (CL-RCD-RP-RAS) / 50-374-278-171-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1037 МГц                                        14-14-15-35  (CL-RCD-RP-RAS) / 49-363-270-166-6-4-6-22  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 962 МГц                                         13-13-14-32  (CL-RCD-RP-RAS) / 45-338-251-155-6-4-6-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 888 МГц                                         12-12-13-30  (CL-RCD-RP-RAS) / 42-312-232-143-5-4-5-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 814 МГц                                         11-11-12-27  (CL-RCD-RP-RAS) / 38-286-212-131-5-4-5-18  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 740 МГц                                         10-10-11-25  (CL-RCD-RP-RAS) / 35-260-193-119-4-3-4-16  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 666 МГц                                         9-9-10-22  (CL-RCD-RP-RAS) / 31-234-174-107-4-3-4-14  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Напряжение питания                                1.20 V
+      Рекомендуется DIMM на канал                       1
+      @ 1066 МГц                                        20-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        19-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        18-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        17-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        16-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        15-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        14-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        13-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 985 МГц                                         12-14-14-26  (CL-RCD-RP-RAS) / 40-345-257-158-6-4-22  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 903 МГц                                         11-13-13-24  (CL-RCD-RP-RAS) / 37-317-235-145-6-4-20  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 821 МГц                                         10-12-12-22  (CL-RCD-RP-RAS) / 34-288-214-132-5-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 738 МГц                                         9-11-11-20  (CL-RCD-RP-RAS) / 30-259-193-119-5-3-17  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Функции модуля памяти:
+      Monolithic DRAM Device                            Да
+      Thermal Sensor                                    Нет
+
+    Производитель модуля памяти:
+      Фирма                                             Corsair Inc.
+      Информация о продукте                             https://www.corsair.com/ww/en/Categories/Products/Memory/c/Cor_Products_Memory
+
+  [ DIMM3: Corsair Vengeance LPX CMK8GX4M1A2400C14 ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Corsair Vengeance LPX CMK8GX4M1A2400C14
+      Серийный номер                                    Нет
+      Размер модуля                                     8 ГБ (2 ranks, 16 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR4 SDRAM
+      Скорость памяти (XMP)                             DDR4-2666 (1333 МГц)
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля (XMP)                           1.35 V
+      Напряжение модуля                                 1.2 V
+      Метод обнаружения ошибок                          Нет
+      Производитель DRAM                                Micron
+      DRAM Stepping                                     00h
+      SDRAM Die Count                                   1
+
+    Тайминги памяти:
+      @ 1333 МГц (XMP)                                  16-16-16-34  (CL-RCD-RP-RAS)
+      @ 1333 МГц (XMP)                                  15-16-16-34  (CL-RCD-RP-RAS)
+      @ 1333 МГц (XMP)                                  14-16-16-34  (CL-RCD-RP-RAS)
+      @ 1239 МГц (XMP)                                  13-15-15-32  (CL-RCD-RP-RAS)
+      @ 1143 МГц (XMP)                                  12-14-14-30  (CL-RCD-RP-RAS)
+      @ 1048 МГц (XMP)                                  11-13-13-27  (CL-RCD-RP-RAS)
+      @ 857 МГц (XMP)                                   9-11-11-22  (CL-RCD-RP-RAS)
+      @ 1066 МГц                                        16-15-15-36  (CL-RCD-RP-RAS) / 50-278-171-118-6-4-6-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1066 МГц                                        15-15-15-36  (CL-RCD-RP-RAS) / 50-278-171-118-6-4-6-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1037 МГц                                        14-14-14-35  (CL-RCD-RP-RAS) / 49-270-166-115-6-4-6-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 962 МГц                                         13-13-13-32  (CL-RCD-RP-RAS) / 45-251-155-106-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 888 МГц                                         12-12-12-30  (CL-RCD-RP-RAS) / 42-232-143-98-5-4-5-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 814 МГц                                         11-11-11-27  (CL-RCD-RP-RAS) / 38-212-131-90-5-4-5-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 740 МГц                                         10-10-10-25  (CL-RCD-RP-RAS) / 35-193-119-82-4-3-4-18  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 666 МГц                                         9-9-9-22  (CL-RCD-RP-RAS) / 31-174-107-74-4-3-4-16  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR4-2400 (1200 МГц)
+      Напряжение питания                                1.20 V
+      Рекомендуется DIMM на канал                       1
+      @ 1200 МГц                                        20-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        19-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        18-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        17-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        16-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        15-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1200 МГц                                        14-16-16-31  (CL-RCD-RP-RAS) / 47-313-193-133-7-6-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1115 МГц                                        13-15-15-29  (CL-RCD-RP-RAS) / 44-291-179-123-7-5-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1030 МГц                                        12-14-14-27  (CL-RCD-RP-RAS) / 41-268-165-114-6-5-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 944 МГц                                         11-13-13-25  (CL-RCD-RP-RAS) / 37-246-152-104-6-4-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 858 МГц                                         10-12-12-23  (CL-RCD-RP-RAS) / 34-224-138-95-5-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 772 МГц                                         9-11-11-20  (CL-RCD-RP-RAS) / 31-201-124-85-5-4-17  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Extreme
+      Скорость памяти                                   DDR4-2666 (1333 МГц)
+      Напряжение питания                                1.35 V
+      Рекомендуется DIMM на канал                       1
+      @ 1333 МГц                                        16-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1333 МГц                                        15-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1333 МГц                                        14-16-16-34  (CL-RCD-RP-RAS) / 50-347-214-147-8-5-28  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1239 МГц                                        13-15-15-32  (CL-RCD-RP-RAS) / 47-323-199-137-8-5-27  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1143 МГц                                        12-14-14-30  (CL-RCD-RP-RAS) / 43-298-184-126-7-5-25  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1048 МГц                                        11-13-13-27  (CL-RCD-RP-RAS) / 40-273-168-116-7-4-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 857 МГц                                         9-11-11-22  (CL-RCD-RP-RAS) / 33-224-138-95-6-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Функции модуля памяти:
+      Monolithic DRAM Device                            Да
+      Thermal Sensor                                    Нет
+
+    Производитель модуля памяти:
+      Фирма                                             Corsair Inc.
+      Информация о продукте                             https://www.corsair.com/ww/en/Categories/Products/Memory/c/Cor_Products_Memory
+
+  [ DIMM4: Corsair Vengeance LPX CMK16GX4M2A2133C13 ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Corsair Vengeance LPX CMK16GX4M2A2133C13
+      Серийный номер                                    Нет
+      Размер модуля                                     8 ГБ (1 rank, 16 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR4 SDRAM
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.2 V
+      Метод обнаружения ошибок                          Нет
+      Производитель DRAM                                SK hynix
+      DRAM Stepping                                     00h
+      SDRAM Die Count                                   1
+
+    Тайминги памяти:
+      @ 1066 МГц                                        16-15-15-36  (CL-RCD-RP-RAS) / 50-374-278-171-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1066 МГц                                        15-15-15-36  (CL-RCD-RP-RAS) / 50-374-278-171-6-4-6-23  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 1037 МГц                                        14-14-15-35  (CL-RCD-RP-RAS) / 49-363-270-166-6-4-6-22  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 962 МГц                                         13-13-14-32  (CL-RCD-RP-RAS) / 45-338-251-155-6-4-6-21  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 888 МГц                                         12-12-13-30  (CL-RCD-RP-RAS) / 42-312-232-143-5-4-5-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 814 МГц                                         11-11-12-27  (CL-RCD-RP-RAS) / 38-286-212-131-5-4-5-18  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 740 МГц                                         10-10-11-25  (CL-RCD-RP-RAS) / 35-260-193-119-4-3-4-16  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+      @ 666 МГц                                         9-9-10-22  (CL-RCD-RP-RAS) / 31-234-174-107-4-3-4-14  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-CCDL-FAW)
+
+    Extreme Memory Profile v2.0:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR4-2133 (1066 МГц)
+      Напряжение питания                                1.20 V
+      Рекомендуется DIMM на канал                       1
+      @ 1066 МГц                                        20-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        19-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        18-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        17-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        16-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        15-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        14-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 1066 МГц                                        13-15-15-28  (CL-RCD-RP-RAS) / 43-374-278-171-6-4-24  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 985 МГц                                         12-14-14-26  (CL-RCD-RP-RAS) / 40-345-257-158-6-4-22  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 903 МГц                                         11-13-13-24  (CL-RCD-RP-RAS) / 37-317-235-145-6-4-20  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 821 МГц                                         10-12-12-22  (CL-RCD-RP-RAS) / 34-288-214-132-5-4-19  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+      @ 738 МГц                                         9-11-11-20  (CL-RCD-RP-RAS) / 30-259-193-119-5-3-17  (RC-RFC1-RFC2-RFC4-RRDL-RRDS-FAW)
+
+    Функции модуля памяти:
+      Monolithic DRAM Device                            Да
+      Thermal Sensor                                    Нет
+
+    Производитель модуля памяти:
+      Фирма                                             Corsair Inc.
+      Информация о продукте                             https://www.corsair.com/ww/en/Categories/Products/Memory/c/Cor_Products_Memory
+
+
+--------[ Графический процессор ]---------------------------------------------------------------------------------------
+
+  [ PCI Express 3.0 x16: nVIDIA GeForce GTX 1080 ]
+
+    Свойства графического процессора:
+      Видеоадаптер                                      nVIDIA GeForce GTX 1080
+      Версия BIOS                                       86.04.3B.00.F9
+      Дата BIOS                                         06.01.2017
+      Кодовое название ГП                               GP104-400
+      PCI-устройство                                    10DE-1B80 / 10DE-1B80  (Rev A1)
+      Число транзисторов                                7200 млн
+      Технологический процесс                           16 nm
+      Размер кристалла                                  314 mm2
+      Тип шины                                          PCI Express 3.0 x16 @ 1.1 x16
+      Объем видеоОЗУ                                    8 ГБ
+      Частота ГП                                        607 МГц
+      Частота RAMDAC                                    400 МГц
+      Пиксельные конвейеры                              64
+      Единицы наложения текстур                         160
+      Объединённые шейдеры                              2560  (v6.5)
+      Аппаратная поддержка DirectX                      DirectX v12
+      Performance Cap Reason                            Загрузка
+      Версия WDDM                                       WDDM 2.7
+
+    Свойства шины памяти:
+      Тип шины                                          GDDR5X (Micron)
+      Ширина шины                                       256 бит
+      Реальная частота                                  101 МГц (ODR)
+      Эффективная частота                               810 МГц
+      Пропускная способность                            25.3 ГБ/с
+
+    Архитектура:
+      Архитектура                                       nVIDIA Pascal
+      Поточные мультипроцессоры (SM)                    20
+      Кэш L1 текстур                                    24 КБ per multiprocessor
+      Кэш L2                                            2 МБ
+      Local Data Share                                  96 КБ
+
+    Теоретическая пиковая производительность:
+      Пиксельная скорость заполнения                    38848 Мпкс/с @ 607 МГц
+      Тексельная скорость заполнения                    97120 Мткс/с @ 607 МГц
+      FLOPS с одинарной точностью                       3107.8 GFLOPS @ 607 МГц
+      FLOPS с двойной точностью                         97.1 GFLOPS @ 607 МГц
+      24-разрядные целочисленные IOPS                   1035.9 GIOPS @ 607 МГц
+      32-разрядные целочисленные IOPS                   1035.9 GIOPS @ 607 МГц
+
+    Загрузка:
+      Графический процессор                             0%
+      Контроллер памяти                                 7%
+      Video Engine                                      0%
+      Bus Interface                                     0%
+      Выделенная память                                 1331 МБ
+      Динамическая память                               102 МБ
+
+    nVIDIA ForceWare Clocks:
+      Level #1                                          Графический процессор: 607 МГц, Память: 405 МГц
+      Level #2                                          Графический процессор: 569 МГц, Память: 810 МГц
+      Level #3                                          Графический процессор: 582 МГц, Память: 4512 МГц
+      Level #4                                          Графический процессор: 582 МГц, Память: 5004 МГц
+
+    Производитель графического процессора:
+      Фирма                                             NVIDIA Corporation
+      Информация о продукте                             https://www.nvidia.com/geforce
+      Загрузка драйверов                                https://www.nvidia.com/drivers
+      Обновление драйверов                              http://www.aida64.com/goto/?p=drvupdates
+
+    nVIDIA GPU Registers:
+      nv-000000                                         134000A1
+      nv-001538                                         800003FF
+      nv-001704                                         801FFFB9
+      nv-001714                                         C01FFFBA
+      nv-00E114                                         0000021C
+      nv-00E118                                         0000021C
+      nv-00E11C                                         00000001
+      nv-00E120                                         00000000
+      nv-00E728                                         00000000
+      nv-00E820                                         02020015
+      nv-00E8A0                                         02000012
+      nv-020008                                         00002F10
+      nv-020014                                         0209019F
+      nv-0200C4                                         000000D8
+      nv-0200C8                                         00000000
+      nv-0200D8                                         010000D8
+      nv-0200DC                                         00000000
+      nv-020340                                         000000A0
+      nv-020344                                         00000034
+      nv-020348                                         000000A0
+      nv-020400                                         0000002A
+      nv-021000                                         C0040000
+      nv-0214A8                                         BADF510C
+      nv-022400                                         00000000
+      nv-022430                                         00000004
+      nv-022434                                         00000005
+      nv-022438                                         00000004
+      nv-02243C                                         00000004
+      nv-022440                                         00000004
+      nv-088000                                         1B8010DE
+      nv-08A000                                         10F010DE
+      nv-100714                                         00001B1A
+      nv-101000                                         00400080
+      nv-10100C                                         02013000
+      nv-120070                                         00000001
+      nv-120074                                         00000004
+      nv-120078                                         00000004
+      nv-122634                                         00000000
+      nv-300000                                         EB78AA55
+      nv-310000                                         E0E8E1E0
+      nv-700000                                         00000000
+      nv-7E0000                                         0000BEEF
+
+  [ nVIDIA SLI ]
+
+    nVIDIA SLI:
+      Статус SLI                                        Запрещено
+
+
+--------[ Физические диски ]--------------------------------------------------------------------------------------------
+
+  [ Диск #1 - Corsair Force LE SSD (162880200001056715DE) [447 ГБ] D: ]
+
+    #1               Basic Data       D: (SSD)                                        1 MB   457861 MB
+
+  [ Диск #2 - ST1000DX001-1CM162 (Z1D6A211) [931 ГБ] E: ]
+
+    #1               Basic Data       E: (HDD)                                        1 MB   953868 MB
+
+  [ Диск #3 - WDS500G3X0C-00SJG0 (E823_8FA6_BF53_0001_001B_448B_49C2_C235.) [465 ГБ] C: ]
+
+    #1               EFI System                                                       1 MB      100 MB
+    #2               MS Reserved                                                    101 MB       16 MB
+    #3               Basic Data       C: (Windows 10)                               117 MB   476823 MB
+
+
+--------[ SMART ]-------------------------------------------------------------------------------------------------------
+
+  [ WDS500G3X0C-00SJG0 (2040A1801973) ]
+
+    0   Critical Warning                                            0   OK: Значение нормальное
+    1   Temperature                                              45 °C  OK: Всегда пройдено
+    3   Available Spare                                          100 %  OK: Всегда пройдено
+    4   Available Spare Threshold                                 10 %  OK: Всегда пройдено
+    5   Percentage Used                                            0 %  OK: Значение нормальное
+    32  Data Units Read                                        2.46 ТБ  OK: Всегда пройдено
+    48  Data Units Written                                     4.73 ТБ  OK: Всегда пройдено
+    64  Host Read Commands                                   57382498   OK: Всегда пройдено
+    80  Host Write Commands                                 219500165   OK: Всегда пройдено
+    96  Controller Busy Time                                   229 мин  OK: Всегда пройдено
+    112  Power Cycles                                               75   OK: Всегда пройдено
+    128  Power-On Hours                                           8641   OK: Всегда пройдено
+    144  Unsafe Shutdowns                                           26   OK: Всегда пройдено
+    160  Media Errors                                                0   OK: Значение нормальное
+    176  Error Information Log Entries                               1   OK: Всегда пройдено
+    192  Warning Composite Temperature Time                       0 мин  OK: Всегда пройдено
+    196  Critical Composite Temperature Time                      0 мин  OK: Всегда пройдено
+
+  [ ST1000DX001-1CM162 (Z1D6A211) ]
+
+    01  Raw Read Error Rate                  6    115  99     99580880  OK: Значение нормальное
+    03  Spinup Time                          0    98   97            0  OK: Всегда пройдено
+    04  Start/Stop Count                     20   86   86        15109  OK: Значение нормальное
+    05  Reallocated Sector Count             10   100  100           0  OK: Значение нормальное
+    07  Seek Error Rate                      30   84   60    253077657  OK: Значение нормальное
+    09  Power-On Time Count                  0    53   53        42006  OK: Всегда пройдено
+    0A  Spinup Retry Count                   97   100  100           0  OK: Значение нормальное
+    0C  Power Cycle Count                    20   99   99         1876  OK: Значение нормальное
+    B7  <зависит от поставщика>              0    99   99            1  OK: Всегда пройдено
+    B8  End-to-End Error                     99   100  100           0  OK: Значение нормальное
+    BB  Reported Uncorrectable Errors        0    100  100           0  OK: Всегда пройдено
+    BC  Command Timeout                      0    100  99           10  OK: Всегда пройдено
+    BD  High Fly Writes                      0    1    1          4993  OK: Всегда пройдено
+    BE  Airflow Temperature                  45   71   49           29  OK: Значение нормальное
+    BF  Mechanical Shock                     0    100  100           0  OK: Всегда пройдено
+    C0  Power-Off Retract Count              0    100  100         782  OK: Всегда пройдено
+    C1  Load/Unload Cycle Count              0    82   82        37099  OK: Всегда пройдено
+    C2  Temperature                          0    29   51           29  OK: Всегда пройдено
+    C5  Current Pending Sector Count         0    100  100           0  OK: Всегда пройдено
+    C6  Offline Uncorrectable Sector Count   0    100  100           0  OK: Всегда пройдено
+    C7  Ultra ATA CRC Error Rate             0    200  200           0  OK: Всегда пройдено
+    F0  Head Flying Hours                    0    100  253       16349  OK: Всегда пройдено
+    F1  Total Host Writes                    0    100  253  59541329055  OK: Всегда пройдено
+    F2  Total Host Reads                     0    100  253  135115682060  OK: Всегда пройдено
+
+  [ Corsair Force LE SSD (162880200001056715DE) ]
+
+    01  Raw Read Error Rate                  50   100  100           0  OK: Значение нормальное
+    05  Retired Block Count                  50   100  100           0  OK: Значение нормальное
+    09  Power-On Hours Count                 0    100  100       31133  OK: Всегда пройдено
+    0C  Device Power Cycle Count             0    100  100         567  OK: Всегда пройдено
+    A2  <зависит от поставщика>              0    100  100         405  OK: Всегда пройдено
+    AA  Reserve Block Count                  0    100  100           0  OK: Всегда пройдено
+    AD  Erase Count                          0    100  100     1572912  OK: Всегда пройдено
+    AE  <зависит от поставщика>              0    100  100         104  OK: Всегда пройдено
+    B5  Program Fail Count                   0    100  100           0  OK: Всегда пройдено
+    BB  Reported Uncorrectable Error Count   0    100  100           0  OK: Всегда пройдено
+    C0  Unexpected Power Loss Count          0    100  100         104  OK: Всегда пройдено
+    C2  Temperature                          30   70   70   30, 30, 30  OK: Значение нормальное
+    C4  Total Later Bad Block Count          10   100  100           0  OK: Значение нормальное
+    DA  CRC Error Count                      50   100  100           0  OK: Значение нормальное
+    E7  SSD Life Left                        0    100  100          98  OK: Всегда пройдено
+    F1  Lifetime MB Written                  0    100  100       24976  OK: Всегда пройдено
+    F2  Lifetime MB Read                     0    100  100       31182  OK: Всегда пройдено
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
